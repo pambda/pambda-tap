@@ -1,0 +1,28 @@
+{
+  "name": "pambda-tap",
+  "version": "0.0.1",
+  "description": "Tap for Pambda",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/pambda/pambda-tap/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/pambda/pambda-tap",
+  "keywords": [
+    "aws",
+    "lambda",
+    "pambda"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pambda/pambda-tap.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
