@@ -25,8 +25,8 @@ export const handler = createLambda(
 ## tap(tapper)
 
 - `tapper`
-    - A function with argument `(event, context)` that performs some processing.
-    - The default is to log `event`.
+    - 何らかの処理を行う引数 `(event, context)` を持つ関数。
+    - デフォルトは `event` をログ出力する。
 
 ## License
 
